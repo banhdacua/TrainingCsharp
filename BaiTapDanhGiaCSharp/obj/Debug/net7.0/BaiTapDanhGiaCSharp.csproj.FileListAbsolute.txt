@@ -1,0 +1,15 @@
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\bin\Debug\net7.0\BaiTapDanhGiaCSharp.exe
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\bin\Debug\net7.0\BaiTapDanhGiaCSharp.deps.json
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\bin\Debug\net7.0\BaiTapDanhGiaCSharp.runtimeconfig.json
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\bin\Debug\net7.0\BaiTapDanhGiaCSharp.dll
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\bin\Debug\net7.0\BaiTapDanhGiaCSharp.pdb
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\BaiTapDanhGiaCSharp.csproj.AssemblyReference.cache
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\BaiTapDanhGiaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\BaiTapDanhGiaCSharp.AssemblyInfoInputs.cache
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\BaiTapDanhGiaCSharp.AssemblyInfo.cs
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\BaiTapDanhGiaCSharp.csproj.CoreCompileInputs.cache
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\BaiTapDanhGiaCSharp.dll
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\refint\BaiTapDanhGiaCSharp.dll
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\BaiTapDanhGiaCSharp.pdb
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\BaiTapDanhGiaCSharp.genruntimeconfig.cache
+D:\Workplace\C#\LearnC#\Basic\BaiTapDanhGiaCSharp\BaiTapDanhGiaCSharp\obj\Debug\net7.0\ref\BaiTapDanhGiaCSharp.dll
